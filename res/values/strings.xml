@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShipmentTrack</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_tracking_details">TrackingDetails</string>
+    <string name="button_get_tracking">Track It</string>
+    <string name="text_carrier_name">Carrier Name</string>
+    <string name="text_tracking_number">Tracking Number</string>
+    <string name="tracking_number_required_error">Please provide tracking number.</string>
+    <string name="empty_string"></string>
+    <string name="image_button_backto_trackit">Back to TrackIt or Home Button in tracking details view.</string>
+    <string name="title_map_view">Map View</string>
+    <string name="title_history">History</string>
+    <string name="text_history_text">For previous results please click:</string>
+</resources>
